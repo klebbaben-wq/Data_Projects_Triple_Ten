@@ -5,6 +5,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Power BI | Project tasked with creating a visualization to identify key factors that play into the success of a Shopify app. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
+| 2 | Storytelling with Data: Tableau | Prepared an analysis for a CEO of a superstore to help them understand what is causing customer returns and and how to reduce their volume. |
 | 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
 | 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
